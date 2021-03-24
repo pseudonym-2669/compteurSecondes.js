@@ -1,4 +1,4 @@
-ask = prompt("combien de secondes à compter ?")
+ask = prompt("How much secondes to count ?")
 
 
 var seconde = ask;
